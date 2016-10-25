@@ -1,5 +1,7 @@
 # depslib dependency file v1.0
-1476964703 source:g:\c language development\workspace for c\workspace for c\recursion\recursion\main.c
+1476984595 source:g:\c language development\workspace for c\workspace for c\recursion\recursion\main.c
 	<stdio.h>
 	<stdlib.h>
+	<math.h>
+	<time.h>
 

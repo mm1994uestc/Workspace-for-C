@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1477407770 source:g:\c language development\workspace for c\workspace for c\primefind\main.c
+	<stdio.h>
+	<stdlib.h>
+
